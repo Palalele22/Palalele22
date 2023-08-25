@@ -14,10 +14,10 @@ Recent Computer Science graduate with a strong passion for software development.
 -
 
 ## Skills
-- Java, NestJS, TypeORM À
-- Javascript, Python, C/Cxw
-- SÁ, PostgreSÁ
-- Algorithms & Data Structure
+- Java, NestJS, TypeORM
+- Javascript, Python, C/C++
+- SQL, PostgreSQL
+- Algorithms & Data Structures
 - Web Design
 
 ## Achievements
