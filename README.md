@@ -1,5 +1,5 @@
 ### Hi there 👋
-Computer Science Graduate | Enthusiastic Software Developer
+**Computer Science Graduate** | **Enthusiastic Software Developer**
 
 Recent Computer Science graduate with a strong passion for software development. Skilled in coding, problem-solving, and creating user-centered solutions. Excited to contribute to innovative projects and embrace new challenges in the tech world. Let's connect and collaborate on exciting opportunities!
 
@@ -21,12 +21,12 @@ Recent Computer Science graduate with a strong passion for software development.
 - Web Design
 
 ## Achievements
-- ASSIST Coding Challenge - 2nd place       (May 2023)
-- ASSIST Coding Challenge - 3rd place       (May 2022)
-- ASSIST Tech Challenge - 2rd place (Team)  (Mar 2022)
-- Best Innovative Minds - 3rd place (Team)  (Dec 2021)
-- ASSIST Coding Challenge - 3rd place       (Oct 2021) 
-- ASSIST Coding Challenge - 1st place       (Apr 2021)
+- **ASSIST Coding Challenge** - 2nd place       (May 2023)
+- **ASSIST Coding Challenge** - 3rd place       (May 2022)
+- **ASSIST Tech Challenge** - 2rd place (Team)  (Mar 2022)
+- **Best Innovative Minds** - 3rd place (Team)  (Dec 2021)
+- **ASSIST Coding Challenge** - 3rd place       (Oct 2021) 
+- **ASSIST Coding Challenge** - 1st place       (Apr 2021)
 
 <!--
 
