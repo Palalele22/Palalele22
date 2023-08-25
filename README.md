@@ -14,9 +14,9 @@ Recent Computer Science graduate with a strong passion for software development.
 -
 
 ## Web Design Portfolio
-- [<img alt="Static Badge" src="https://img.shields.io/badge/Polo%20Steel%20Art-brightgreen?logo=pexels&logoColor=black&color=white&link=https%3A%2F%2Fwww.figma.com%2Ffile%2FR6zmFqLAJuPGbg6Ol6wdLY%2FUntitled%3Ftype%3Ddesign%26node-id%3D35%253A203%26mode%3Ddesign%26t%3DlkLVs43HTYZYwFjq-1">]
--
--
+[<img alt="Static Badge" src="https://img.shields.io/badge/Polo%20Steel%20Art-brightgreen?logo=pexels&logoColor=black&color=white">](https://www.figma.com/file/R6zmFqLAJuPGbg6Ol6wdLY/Untitled?type=design&node-id=35%3A203&mode=design&t=lkLVs43HTYZYwFjq-1)
+
+
 
 ## Skills
 - Java, NestJS, TypeORM
