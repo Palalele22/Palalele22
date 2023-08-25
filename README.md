@@ -15,6 +15,8 @@ Recent Computer Science graduate with a strong passion for software development.
 
 ## Web Design Portfolio
 [<img alt="Static Badge" src="https://img.shields.io/badge/Polo%20Steel%20Art-brightgreen?logo=pexels&logoColor=black&color=white">](https://www.figma.com/file/R6zmFqLAJuPGbg6Ol6wdLY/Untitled?type=design&node-id=35%3A203&mode=design&t=lkLVs43HTYZYwFjq-1)
+[<img alt="Static Badge" src="https://img.shields.io/badge/CSM%20Suceava%20Volleyball%20Team-brightblue?logo=circle&logoColor=black&color=blue">](https://www.figma.com/file/cTruRc1pkysfzM3BijsbS6/WireFrames?type=design&node-id=0%3A1&mode=design&t=HWYS0ZdrnIam9jpP-1)
+[<img alt="Static Badge" src="https://img.shields.io/badge/WireFrames-brightred?logo=wire&logoColor=black&color=red">](https://www.figma.com/file/bkcNFhgN3rq1QKl5jWGGrM/Administrator?type=design&mode=design&t=HWYS0ZdrnIam9jpP-1)
 
 
 
