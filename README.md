@@ -9,9 +9,9 @@ Recent Computer Science graduate with a strong passion for software development.
 
 
 ## Projects
--
--
--
+- Currently working on **Polo Steel Art** Website (**Full Stack**)
+- Currently working on **Fiber Blooms** Website (**Full Stack**)
+- Currently working on **Palalele Website** (**Full Stack**)
 
 ## Web Design Portfolio
 [<img alt="Static Badge" src="https://img.shields.io/badge/Polo%20Steel%20Art-brightgreen?logo=pexels&logoColor=black&color=white">](https://www.figma.com/file/R6zmFqLAJuPGbg6Ol6wdLY/Untitled?type=design&node-id=35%3A203&mode=design&t=lkLVs43HTYZYwFjq-1)
