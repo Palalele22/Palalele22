@@ -9,7 +9,7 @@ Recent Computer Science graduate with a strong passion for software development.
 
 
 ## Projects
-- **www.polosteelart.ro**  (**Full Stack**)
+![Static Badge](https://img.shields.io/badge/polosteelart.ro-333333?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FPalalele22%2FPalalele22%2Fblob%2Fmain%2Fpolosteelart.md)
 - Currently working on **Fiber Blooms** Website (**Full Stack**)
 - Currently working on **Palalele Website** (**Full Stack**)
 
