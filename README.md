@@ -9,7 +9,7 @@ Recent Computer Science graduate with a strong passion for software development.
 
 
 ## Projects
-- Currently working on **Polo Steel Art** Website (**Full Stack**)
+- **www.polosteelart.ro**  (**Full Stack**)
 - Currently working on **Fiber Blooms** Website (**Full Stack**)
 - Currently working on **Palalele Website** (**Full Stack**)
 
