@@ -1,5 +1,5 @@
 # POLO STEEL ART
-![Static Badge](https://img.shields.io/badge/polosteelart.ro-333333?style=for-the-badge&link=www.polosteelart.ro)
+[<img alt="Static Badge" src="https://img.shields.io/badge/polosteelart.ro-333333?style=for-the-badge&link=www.polosteelart.ro">](https://www.polosteelart.ro)
 
 
 
